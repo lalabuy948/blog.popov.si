@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="960px" height="235px" viewBox="0 0 960 235" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="logo-black" transform="translate(14.000000, 13.000000)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="11">
+            <polyline id="Shape" points="93 33 179 33 179 186 109.180412 186 99.871134 185.88913"></polyline>
+            <polyline id="Shape" points="24.5492063 159.147059 0 209 209 209 209 59 179.585185 59"></polyline>
+            <path d="M88.5589354,46.1046512 C121.859316,52.0697674 147,79.0232558 147,111.389535 C147,138.784884 129.026616,162.203488 103.334601,172.476744" id="Path"></path>
+            <path d="M95.9467681,175.017442 C89.2205323,176.895349 81.9429658,178 74.4448669,178 C34.418251,178 2,148.174419 2,111.5 C2,74.7151163 34.418251,45 74.4448669,45 C77.4220532,45 80.3992395,45.2209302 83.2661597,45.4418605" id="Path"></path>
+            <path d="M93,19 L80,46" id="Shape"></path>
+            <path d="M77.5851064,209 C78.7021277,209 85.1808511,209 85.1808511,209 C112.547872,178.700529 111.430851,141.655556 85.4042553,109.586772 L114,109.586772 C85.7393617,89.2396825 80.4893617,64.6904762 93.2234043,33.3957672 C97.4680851,23.0010582 102.494681,13.3804233 105.510638,6.85608466 C105.158368,6.15860815 104.894165,5.63550078 104.718029,5.28676253 C104.124661,4.11192641 103.234609,2.34967223 102.047872,0 C100.148936,4.42328042 96.1276596,12.6063492 91.7712766,22.1164021 C79.7074468,48.6560847 73.787234,82.9365079 100.037234,104.5 L72,104.5 C111.430851,140.660317 102.271277,182.349735 77.5851064,209 Z" id="Shape"></path>
+            <polyline id="Shape" points="105 6 110.840708 18.3914894 117 32"></polyline>
+        </g>
+        <text id="Anton-Popov" font-family="AvenirNext-Bold, Avenir Next" font-size="108" font-weight="bold" fill="#000000">
+            <tspan x="255.678" y="129">Anton Popov</tspan>
+        </text>
+    </g>
+</svg>
