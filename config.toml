@@ -1,0 +1,22 @@
+# baseURL = "http=//example.org/"
+languageCode = "en-us"
+title = "Anton Popov"
+theme = "hugo-theme-novela"
+publishDir = "docs"
+relativeurls = true
+
+pygmentsstyle = 'monokai'
+paginate= 6
+enableEmoji = true
+enableRobotsTXT = true
+
+[social]
+  twitter= "#"
+  github= "#"
+  instagram= "#"
+  linkedin= "#"
+  dribbble= "#"
+  youtube= "#"
+
+[taxonomies]
+  author = "authors"
