@@ -1,5 +1,5 @@
 +++
-authors = []
+authors = ["Anton Popov"]
 date = 2021-06-26T22:00:00Z
 draft = true
 excerpt = "Some excerpt"
