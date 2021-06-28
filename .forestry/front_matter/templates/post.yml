@@ -31,5 +31,3 @@ fields:
   default:
   - Anton Popov
   label: Authors
-pages:
-- content/post/forestry-article.md
