@@ -11,7 +11,7 @@ title = "Forestry article test"
 
 Chpok chelebok
 
-![](https://basicbb.com/images/fullsize/CR_01.jpg)
+![](/images/2019-05-29-15-37-00.jpg)
 
 * bla
 * blo
