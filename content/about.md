@@ -1,11 +1,6 @@
 ---
 title: About
+hero: /images/anton-popov/avatar.jpg
 ---
 
-Etiam porta sem malesuada magna mollis euismod. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Donec sed odio dui.
-
-Donec sed odio dui. Nulla vitae elit libero, a pharetra augue. Nulla vitae elit libero, a pharetra augue. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-
-Nulla vitae elit libero, a pharetra augue. Cras mattis consectetur purus sit amet fermentum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Vestibulum id ligula porta felis euismod semper. Etiam porta sem malesuada magna mollis euismod. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+In mid 1990-s with international team of Shell OH successfully brought company to gas retail market of Russia, than started a career in the electric power production and transmission industry. By 2013, have held key management positions including the construction of nuclear power plants around the globe and Vice President of the Russian Federation’s Energy Agency (REA), State Ministry of Energy. Educational attainments include an M.S. in physics, St. Petersburg State Technical University, 1994, and an M.S. with honors from St. Petersburg State University, Banking Institute and Stockholm School of economics, 1996. Now performing at the juncture of science, business and modern art.

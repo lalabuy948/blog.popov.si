@@ -41,6 +41,7 @@
 {{- $s.SetInMap "seo" "datePublished" .seo.published_time -}}
 {{- $s.SetInMap "seo" "dateModified" .seo.updated_time -}}
 {{- $s.SetInMap "seo" "description" .seo.description -}}
+{{- $s.SetInMap "seo" "keywords" .seo.keywords -}}
 
 {{ with .author -}}
 	{{ $s.SetInMap "seo" "author"  . -}}
