@@ -30,7 +30,7 @@ sections:
   label: Config
   create: all
   match: "**/*"
-  new_doc_ext: yaml
+  new_doc_ext: toml
 upload_dir: static/uploads
 public_path: "/static/images"
 front_matter_path: ''
@@ -40,7 +40,7 @@ build:
   preview_env:
   - HUGO_ENV=staging
   - HUGO_VERSION=0.60.1
-  preview_output_directory: public
+  preview_output_directory: docs
   preview_docker_image: forestryio/hugo:latest
   mount_path: "/srv"
   working_dir: "/srv"

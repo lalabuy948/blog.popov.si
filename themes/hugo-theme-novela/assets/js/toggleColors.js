@@ -29,8 +29,8 @@ function toggleColors(){
     if (localStorage.getItem("isLight") === 'true'){
         makeDark();
 
-        mobileImg.src = "./images/logo-light.png";
-        desktopImg.src = "./images/logo-light.png";
+        mobileImg.src = "/images/logo-light.png";
+        desktopImg.src = "/images/logo-light.png";
 
         moonMask.classList.add("mask-to-sun-animation");
         moonOrSun.classList.add("to-sun-animation");
@@ -50,8 +50,8 @@ function toggleColors(){
     else{
         makeLight();
 
-        mobileImg.src = "./images/logo.png";
-        desktopImg.src = "./images/logo.png";
+        mobileImg.src = "/images/logo.png";
+        desktopImg.src = "/images/logo.png";
 
         moonMask.classList.add("mask-to-moon-animation");
         moonOrSun.classList.add("to-moon-animation");

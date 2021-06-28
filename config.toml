@@ -4,6 +4,7 @@ title = "Anton Popov"
 theme = "hugo-theme-novela"
 publishDir = "docs"
 relativeurls = true
+rssFullText = true
 
 pygmentsstyle = 'monokai'
 paginate= 6
@@ -11,12 +12,8 @@ enableEmoji = true
 enableRobotsTXT = true
 
 [social]
-  twitter= "#"
-  github= "#"
-  instagram= "#"
-  linkedin= "#"
-  dribbble= "#"
-  youtube= "#"
+  youtube= "https://www.youtube.com/c/AntonPopov/videos"
+  # mewe="https://mewe.com/i/antonpopov"
 
 [taxonomies]
   author = "authors"
