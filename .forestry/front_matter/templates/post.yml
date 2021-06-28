@@ -28,7 +28,8 @@ fields:
   label: Hero Image
 - name: authors
   type: tag_list
-  default: []
+  default:
+  - Anton Popov
   label: Authors
 pages:
 - content/post/forestry-article.md
