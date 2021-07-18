@@ -2,7 +2,7 @@
 title: Test Article
 date: 2020-07-14T10:13:39.000+00:00
 excerpt: "«А вот наш юный вундеркинд…"
-hero: "/images/hero-2.jpg"
+hero: "/images/photo_2021-07-19-00-22-08.jpeg"
 authors:
 - Anton Popov
 tags:
