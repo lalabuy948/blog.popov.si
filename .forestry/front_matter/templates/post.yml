@@ -31,3 +31,6 @@ fields:
   default:
   - Anton Popov
   label: Authors
+- name: draft
+  type: boolean
+  label: draft
