@@ -8,6 +8,7 @@ authors:
 tags:
 - tag_01
 - tag_02
+draft: true
 
 ---
 > «А вот наш юный вундеркинд…
