@@ -2,7 +2,7 @@
 title: "...Прошел год."
 date: 2020-07-14T10:13:39.000+00:00
 excerpt: Текст написан прошлым летом и до сих пор актуален
-hero: "/images/76.png"
+hero: "/images/teleskop.jpg"
 authors:
 - Anton Popov
 tags:
