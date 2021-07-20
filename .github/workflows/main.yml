@@ -13,11 +13,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
+
     - uses: jakejarvis/hugo-build-action@master
       with:
         args: --minify
+
     - uses: actions/upload-artifact@master
       with:
         name: website
         path: './docs'
+
+    - name: Commit changes
+        uses: elstudio/actions-js-build/commit@v3
+        with:
+          commitMessage: Automated snapshot
 
