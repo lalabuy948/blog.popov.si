@@ -35,3 +35,5 @@ fields:
   default:
   - Anton Popov
   label: Authors
+pages:
+- content/post/водородный-рай.md
