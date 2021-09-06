@@ -1,7 +1,6 @@
 +++
 authors = ["Anton Popov"]
 date = 2021-09-05T22:00:00Z
-draft = true
 excerpt = "Краткий обзор чудесного документа, одобрившего уколы от бионтека/пфайзера."
 hero = "/images/orig-3333.jpeg"
 title = "FDA approves Comirnaty"
