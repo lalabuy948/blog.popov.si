@@ -36,6 +36,7 @@ fields:
   - Anton Popov
   label: Authors
 pages:
+- content/post/advise-from-lawyer.md
 - content/post/fda-approves-comirnaty.md
 - content/post/ordnung.md
 - content/post/short-analysis.md
