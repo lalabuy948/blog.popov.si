@@ -2,7 +2,7 @@
 authors = ["Anton Popov"]
 date = 2021-10-08T22:00:00Z
 excerpt = "if you are asked to be injected"
-hero = "/images/png-transparent-lawyer-caricature-law-firm-owl-lawyer-people-logo-owl.png"
+hero = ""
 title = "Advise from lawyer "
 
 +++
