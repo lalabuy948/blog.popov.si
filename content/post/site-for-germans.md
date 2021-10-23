@@ -1,7 +1,6 @@
 +++
 authors = ["Anton Popov"]
 date = ""
-draft = true
 excerpt = "German site where companies with resect are represented "
 hero = "/images/scale_1200.webp"
 title = "Site for Germans "
