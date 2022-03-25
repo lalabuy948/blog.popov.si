@@ -1,9 +1,8 @@
 +++
 authors = ["Anton Popov"]
 date = 2022-03-24T23:00:00Z
-draft = true
 excerpt = "Три проекта, три веселых друга. Или краткое описание поехавшего мира."
-hero = "/images/0-nate-wens-1.jpg"
+hero = "/images/nateowens-hang-on-were-winning-1-fe5cc9af-9ymi.jpg"
 title = "Kam gremo ali brez idej."
 
 +++
