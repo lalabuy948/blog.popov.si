@@ -1,11 +1,12 @@
 +++
-authors = ["Anton Popov"]
+authors = [ "Anton Popov" ]
 date = ""
 excerpt = "German site where companies with resect are represented "
 hero = "/images/scale_1200.webp"
 title = "Site for Germans "
-
+_template = "post"
 +++
+
 
 Предприниматели, которые гордятся людьми, которые работают на вас, и благодарны им.
 

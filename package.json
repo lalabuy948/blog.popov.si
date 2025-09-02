@@ -1,0 +1,33 @@
+{
+  "name": "blog.popov.si",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalabuy948/blog.popov.si.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lalabuy948/blog.popov.si/issues"
+  },
+  "homepage": "https://github.com/lalabuy948/blog.popov.si#readme",
+  "dependencies": {
+    "tinacms": "^2.8.2"
+  },
+  "devDependencies": {
+    "@tinacms/cli": "^1.10.2",
+    "@types/node": "^24.3.0"
+  }
+}

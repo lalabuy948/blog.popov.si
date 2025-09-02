@@ -1,11 +1,12 @@
 +++
-authors = ["Anton Popov"]
-date = 2022-03-24T23:00:00Z
+authors = [ "Anton Popov" ]
+date = 2022-03-24T23:00:00.000Z
 excerpt = "Три проекта, три веселых друга. Или краткое описание поехавшего мира."
 hero = "/images/nateowens-hang-on-were-winning-1-fe5cc9af-9ymi.jpg"
 title = "Kam gremo ali brez idej."
-
+_template = "post"
 +++
+
 
 Нет идей.
 

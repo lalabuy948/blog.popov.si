@@ -1,11 +1,12 @@
 +++
-authors = ["Anton Popov"]
-date = 2021-10-08T22:00:00Z
+authors = [ "Anton Popov" ]
+date = 2021-10-08T22:00:00.000Z
 excerpt = "if you are asked to be injected"
 hero = ""
 title = "Advise from lawyer "
-
+_template = "post"
 +++
+
 If you're being forced to Vax in order to keep your [#job](https://gab.com/tags/job), here’s a great way to handle it. (Conditional acceptance) The secret is NOT to refuse it. “I write with regard to the matter of potential covid vaccine and my desire to be fully informed and appraised of ALL facts before going ahead.
 
 I’d be most grateful if you could please provide the following information, in accordance with statutory legal requirements.”:
